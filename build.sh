@@ -1,3 +1,3 @@
 rm -rf artifacts
-mkdir -p artifacts
-echo "abctestproj1" > artifacts/artifact.yml
+mkdir -p release_candidate
+echo "abctestproj1" > release_candidate/artifact.yml

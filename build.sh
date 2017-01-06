@@ -1,3 +1,3 @@
-rm -rf output
-mkdir -p output
-echo "abctestproj1" > output/image
+rm -rf artifacts
+mkdir -p artifacts
+echo "abctestproj1" > artifacts/artifact.yml
